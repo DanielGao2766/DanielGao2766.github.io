@@ -24,3 +24,5 @@ Zip Recruiter
 Do this during Thanksgiving
 https://docs.djangoproject.com/en/4.2/intro/tutorial01/
 https://www.cs3240.org/modules/intro/indroduction/
+
+https://www.datacamp.com/blog/data-analytics-projects-all-levels

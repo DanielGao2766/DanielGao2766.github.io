@@ -1,6 +1,6 @@
 https://danielgao2766.github.io
 
-TODO: LinkedIN
+TODO: 
 Indeed
 GlassDoor
 Zip Recruiter

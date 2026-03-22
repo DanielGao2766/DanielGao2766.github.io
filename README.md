@@ -1,9 +1,4 @@
 https://danielgao2766.github.io
-
-TODO: 
-Indeed
-GlassDoor
-Zip Recruiter
     
 -- NeetCode 150
 

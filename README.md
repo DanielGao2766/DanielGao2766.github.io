@@ -20,4 +20,4 @@ https://www.datacamp.com/blog/data-analytics-projects-all-levels
 
 do this project from level 1: https://docs.djangoproject.com/en/6.0/intro/tutorial07/
 
-TODO: https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
+
